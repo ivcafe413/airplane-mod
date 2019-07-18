@@ -1,0 +1,12 @@
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+saves
+logs
+crash-reports
+bin
